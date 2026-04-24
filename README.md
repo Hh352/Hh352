@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Hh352/Hh352/blob/main/White%20and%20Blue%20Color%20Blocks%20Professional%20Service%20Marketing%20Consultancy%20Profile%20Instagram%20Post%20(Banner%20ngang).png?raw=true" width="100%" alt="Banner của Huy Hoàng" />
 </p>
-## Hi there 👋
+Hi there 👋
 
 <!--
 **Hh352/Hh352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
