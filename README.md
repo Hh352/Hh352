@@ -4,20 +4,26 @@
 
 🚀 Xin chào! Mình là Trần Nguyễn Huy Hoàng
 
+
 👨‍💻 Intern Developer | Đam mê .NET & Giao diện hiện đại (UI/UX)
 
 🎓 Sinh viên chuyên ngành Phát triển Phần mềm (GPA: 3.36/4.0)
 
 💡 Focus on: Xây dựng hệ thống Back-end vững chắc và thiết kế giao diện thân thiện với người dùng.
 
+
 🛠️ Bộ kỹ năng Kỹ thuật
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,js" alt="Ngôn ngữ lập trình" title="C#, C++, JavaScript" />
   <br><br>
+
+
   
   <img src="https://skillicons.dev/icons?i=dotnet,html,css,vue,vite" alt="Web & Frameworks" title="ASP.NET, HTML, CSS, VueJS, ViteJS" />
   <br><br>
+
+
   
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database & Tools" title="MySQL, Git, GitHub, VS Code" />
 </p>
